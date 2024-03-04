@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677344515780",
+    "firebase_url": "https://practica-df5d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "practica-df5d7",
+    "storage_bucket": "practica-df5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677344515780:android:b6fb09d1b82863f52a9b91",
+        "android_client_info": {
+          "package_name": "com.example.practicafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqtvSj2iwQZXggEdLLPl0S_8S4s7f5u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
